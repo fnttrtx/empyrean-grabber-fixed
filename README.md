@@ -54,15 +54,12 @@
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.exe` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
-
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
+![image](https://user-images.githubusercontent.com/128328201/228947942-fb7d3c6e-e7f4-48d0-9013-8c018f48fd76.png)
 </div>
+![image](https://user-images.githubusercontent.com/128328201/228948030-009e7dd1-c875-47ea-9409-b6341e8b477b.png)
+![image](https://user-images.githubusercontent.com/128328201/228948067-fc8ce2ee-1c36-4ae6-bf65-3f598f977515.png)
+![image](https://user-images.githubusercontent.com/128328201/228948092-8204f16d-0c8a-41ee-ab1d-0c9b5d755751.png)
+![image](https://user-images.githubusercontent.com/128328201/228948126-094688b1-a975-489f-8a7f-dcee351b98c0.png)
 
 ## Contributing
 
@@ -77,4 +74,4 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
-<img src="img/footer.png">
+![image](https://user-images.githubusercontent.com/128328201/228948275-fbc30917-2341-4f71-802e-3a6c3104a6cf.png)
