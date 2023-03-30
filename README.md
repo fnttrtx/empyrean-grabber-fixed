@@ -55,13 +55,9 @@
 4. Run the builder by double clicking the `build.exe` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 ![image](https://user-images.githubusercontent.com/128328201/228947942-fb7d3c6e-e7f4-48d0-9013-8c018f48fd76.png)
-</div>
 ![image](https://user-images.githubusercontent.com/128328201/228948030-009e7dd1-c875-47ea-9409-b6341e8b477b.png)
-</div>
 ![image](https://user-images.githubusercontent.com/128328201/228948067-fc8ce2ee-1c36-4ae6-bf65-3f598f977515.png)
-</div>
 ![image](https://user-images.githubusercontent.com/128328201/228948092-8204f16d-0c8a-41ee-ab1d-0c9b5d755751.png)
-</div>
 ![image](https://user-images.githubusercontent.com/128328201/228948126-094688b1-a975-489f-8a7f-dcee351b98c0.png)
 
 ## Contributing
